@@ -3,7 +3,8 @@
 
 <div align="center">
   
-![MovieGold Banner](https://via.placeholder.com/900x300/1a1a1a/ffd700?text=🎬+MovieGold)
+![MovieGold Banner](<img width="1918" height="993" alt="Screenshot 2025-08-30 225010" src="https://github.com/user-attachments/assets/213ec2f5-9c42-428c-b483-63adf88bbdb2" />
+)
 
 **The ultimate movie review platform that brings film lovers together**  
 *Discover • Watch • Review • Connect*
@@ -27,6 +28,7 @@
 **MovieGold** isn't just another movie site. It's a vibrant community where cinephiles unite to discover, discuss, and debate the world of cinema. From blockbusters to indie gems, every film finds its voice here.
 
 ### 🌟 **The Magic Features**
+
 
 <table>
 <tr>
@@ -72,7 +74,8 @@ Real opinions from real people. No corporate bias, no sponsored content – just
 <div align="center">
 
 ### 📝 **Review System**
-![Review Interface](https://via.placeholder.com/600x400/4a5568/ffffff?text=📝+Review+Interface)
+![Review Interface](<img width="1919" height="996" alt="Screenshot 2025-08-30 225034" src="https://github.com/user-attachments/assets/732b723c-7779-42bf-85c6-164a05a469c5" />
+)
 
 ### 🎞️ **Trailer Experience**  
 ![Trailer Player](https://via.placeholder.com/600x400/2b6cb0/ffffff?text=▶️+Trailer+Player)
